@@ -1,4 +1,4 @@
-packages.txt
+curl -sSL https://install.python-poetry.org | python3 -
 import tkinter as tk
 import random as rand
 
